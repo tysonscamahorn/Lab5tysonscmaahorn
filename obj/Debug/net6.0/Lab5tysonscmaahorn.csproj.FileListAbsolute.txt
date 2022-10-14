@@ -1,0 +1,15 @@
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.csproj.AssemblyReference.cache
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.AssemblyInfoInputs.cache
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.AssemblyInfo.cs
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.csproj.CoreCompileInputs.cache
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\bin\Debug\net6.0\Lab5tysonscmaahorn.exe
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\bin\Debug\net6.0\Lab5tysonscmaahorn.deps.json
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\bin\Debug\net6.0\Lab5tysonscmaahorn.runtimeconfig.json
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\bin\Debug\net6.0\Lab5tysonscmaahorn.dll
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\bin\Debug\net6.0\Lab5tysonscmaahorn.pdb
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.dll
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\refint\Lab5tysonscmaahorn.dll
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.pdb
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\Lab5tysonscmaahorn.genruntimeconfig.cache
+C:\Users\tyson\my-code-dir\Lab5tysonscmaahorn\obj\Debug\net6.0\ref\Lab5tysonscmaahorn.dll
